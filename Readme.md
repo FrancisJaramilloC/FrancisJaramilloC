@@ -1,4 +1,4 @@
-# 💫 About Me / Sobre Mí:
+# About Me / Sobre Mí:
 
 <details open>
   <summary><b>🇺🇸 English Version</b></summary>
